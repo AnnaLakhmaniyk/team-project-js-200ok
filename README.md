@@ -7,7 +7,11 @@ films will be created. Aplication has dark and light mode. [link](https://mkunde
 
 ## Used technologies
 
-HTML5, SASS, JS
+### Languages and Frameworks:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - This project was created with Parcel. For dating and setting additional features
 [refer to documentation](https://parceljs.org/);
@@ -17,8 +21,8 @@ HTML5, SASS, JS
 
 ## Contibutors
 
-- Maksym Kundieiev 
-- Anna Lakhmaniuk 
+- Maksym Kundieiev (Team Leader)
+- Anna Lakhmaniuk (Scrum Master)
 - Iuliia Iavorska 
 - Ioanna Istomina 
 - Maksym Korolko 
